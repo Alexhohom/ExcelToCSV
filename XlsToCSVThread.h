@@ -13,7 +13,7 @@ private:
 protected:
 	void __fastcall Execute();
 public:
-	__fastcall TXlsToCSVThread(bool CreateSuspended, String sFile);
+	__fastcall TXlsToCSVThread(bool CreateSuspended, String sFile);daksdakshd
 };
 //---------------------------------------------------------------------------
 #endif
